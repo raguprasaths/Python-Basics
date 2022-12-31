@@ -1,0 +1,6 @@
+n1 = input("Enter your name")
+print("Hello "+n1+" Please tell your good friend name")
+n2 = input()
+print(n1+" which place you love to visit again and again")
+place = input()
+print(n1 +" and "+n2+" are friends. One day they planned to visit "+place)
